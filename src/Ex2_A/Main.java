@@ -1,12 +1,12 @@
 package Ex2_A;
 
 import static Ex2_A.Ex2_1.*;
-
+//hi i hate it
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         String[] arr;
-        arr=createTextFiles(30, 5,1000);
-        for (int i = 0; i < 15; i++) {
+        arr=createTextFiles(5, 5,1000);
+        for (int i = 0; i < 5; i++) {
             System.out.println(arr[i]);
         }
         int x = getNumOfLines(arr);
