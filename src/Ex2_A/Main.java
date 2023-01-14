@@ -1,6 +1,6 @@
-package working;
+package Ex2_A;
 
-import static working.Ex2_1.*;
+import static Ex2_A.Ex2_1.*;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package working;
+package Ex2_A;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -8,10 +8,6 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.Period;
-import java.time.temporal.ChronoUnit;
 
 public class Ex2_1 {
     public static String[] createTextFiles(int n, int seed, int bound) {
