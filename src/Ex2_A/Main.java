@@ -1,7 +1,7 @@
 package Ex2_A;
 
 import static Ex2_A.Ex2_1.*;
-//hi i hate it
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         String[] arr;
